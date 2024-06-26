@@ -7,7 +7,7 @@ django==3.1.14
 django-environ==0.4.5
 django-heroku==0.3.1
 django-rest-knox==4.1.0
-djangorestframework==3.11.2
+djangorestframework==3.15.2
 gunicorn==22.0.0; python_version >= '3.7'
 packaging==24.0; python_version >= '3.7'
 psycopg2==2.9.5; python_version >= '3.6'
